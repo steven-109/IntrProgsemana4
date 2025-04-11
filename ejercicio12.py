@@ -1,0 +1,5 @@
+print ("totalAmount es camelCase")
+print ("TotalAmount es PascalCase")
+print ("total_amount es snake_case")
+print ("TOTAL_AMOUNT es SCREAMING_SNAKE_CASE")
+print ("total-amount es kebab-case")
